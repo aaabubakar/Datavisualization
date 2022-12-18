@@ -1,2 +1,2 @@
 # Datavisualization
-Data Visusalization Using Power Bi, Tableau, and Excel
+Data analysis and Visusalization Using  Excel
